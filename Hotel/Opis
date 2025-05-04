@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Baza danych znajduje się w pliku HotelBaza.rar (plik należy rozpakować). Zapytania użyte w bazie są w pliku Zapytania.sql. Dashboard jest w pliku hotel1.pbix i hotel2.pbix
+=======
+Baza danych znajduje się w pliku NieobecnościBaza.sql. Zapytania użyte w projekcie są w pliku Zapytania.sql. Dashboard jest w pliku Nieobecności.pbix.
+>>>>>>> origin/Nieobecnosci
